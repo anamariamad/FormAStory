@@ -1,2 +1,2 @@
 ﻿# FormAStory
- crear un <formulario> capaz de recopilar la información correcta para que la historia recién creada tenga sentido.
+ Crear un _formulario_ capaz de recopilar la información correcta para que la historia recién creada tenga sentido.
